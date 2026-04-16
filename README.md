@@ -4,7 +4,7 @@ I'm an Industrial & Systems Engineering student at Georgia Tech with a concentra
 
 ## what I'm up to
 
-- 🔬 helping study Atlanta as a research assistant @ Georgia Tech CoE's School of CEE
+- 🔬 helping study pedestrian travel as a research assistant @ Georgia Tech CoE's School of CEE
 - 📈 working on an evolutionary symbolic regression engine for financial time-series forecasting
 - ✍️ writing and keeping a blog filled with (maybe interesting) stuff from my head
 

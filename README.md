@@ -1,6 +1,6 @@
 # Hey, I'm Chris 👋
 
-I'm an Industrial & Systems Engineering student at Georgia Tech with a concentration in Operations Research & Statistics and a minor in Computing & Intelligence. I spend most of my time somewhere between ML and poetry — and I think the two have more in common than people expect.
+I'm an Industrial & Systems Engineering student at Georgia Tech with a concentration in Operations Research & Statistics and a minor in Computing & Intelligence. I spend most of my time somewhere between ML and writing — and I think the two have more in common than people expect.
 
 ## what I'm up to
 
